@@ -1,0 +1,54 @@
+p1{
+	background-color: #F3F3F3;
+}
+.one{
+	
+	left: 50px;
+	margin-left: 100px;
+	overflow: hidden;
+}	
+.one input{
+	border-radius: 3px;/*输入框的弧形*/
+	border-width:1.5px;
+	border-color: #CCCCCC;
+}
+.one p2{
+	color: #777777;
+}
+.two{
+	border-right-style: ridge;/*分割注册和登录页面*/
+	border-size: 100px;
+	margin-left: 150px;
+	margin-top: 60px;
+	width: 400px;
+	color: #4C4C4C;
+}
+.three{
+	color: gray;
+	font-family:times;
+	font-size:25px;
+	margin-left:65px;
+	margin-bottom: 70px;
+	background-color: #F3F3F3; 
+	height: 50px;
+	width: 1000px;
+	overflow: hidden;
+}
+.five{
+	position: relative;
+	margin-left: 800px;
+	margin-top:-410px;
+	z-index: 1;
+}
+.five input{
+	border-radius: 3px;
+	border-width:1.5px;
+	border-color:#CCCCCC;
+}
+
+span{
+	color: #009A61;
+}
+.button{
+	color: #009A61
+}
